@@ -16,8 +16,6 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-
-
 ## Overview
 
 ### The challenge
@@ -84,9 +82,3 @@ Learned to create layouts with responsiveness, accessibility and nice visual des
 - Website - [Thiago Dos Santos Gomes](https://yvvessel.github.io)
 - Frontend Mentor - [@yyvvessel](https://www.frontendmentor.io/profile/yvvessel)
 - Beecrowd - [@thc-dsg](https://judge.beecrowd.com/pt/profile/1095723)
-
-
-
-
-
-
