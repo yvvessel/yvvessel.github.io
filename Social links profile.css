@@ -31,6 +31,10 @@ blockquote {
   color: lightgray;
 }
 
+ul {
+    list-style-type: none;
+}
+
 .impobjetos {
   max-width: fit-content;
   margin: auto;
