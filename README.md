@@ -15,7 +15,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
   - [What I learned](#what-i-learned)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
+
 
 
 ## Overview
@@ -47,7 +47,7 @@ Users should be able to:
 
 ### What I learned
 
-Learned that majorly links "buttons" are not actually buttons and made a cool-looking link "button" with it's logos.
+Learned add an image within the link using text and image together. I styled the buttons using classes like button flash-slide flash-slide--black and learned that majorly links "buttons" are not actually buttons, they are just links that are cool-stylized 
 
 ```html
 <a href="https://github.com/yvvessel/" title="Perfil do Github" class="button flash-slide flash-slide--black"> 
@@ -58,7 +58,7 @@ Learned that majorly links "buttons" are not actually buttons and made a cool-lo
        
 </a>
 ```
-Create layout with responsiveness, accessibility and visual designs.
+Learned to create layouts with responsiveness, accessibility and nice visual designs as the rounded corners or div's shadow box. A visually appealing, centralized, and modern-style area by combining several CSS design features.
 
 ```css
 .impobjetos {
@@ -86,7 +86,6 @@ Create layout with responsiveness, accessibility and visual designs.
 - Beecrowd - [@thc-dsg](https://judge.beecrowd.com/pt/profile/1095723)
 
 
-## Acknowledgments
 
 
 
